@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 - Programming Languages: Javascript, Python, C#, SQL
 - Frameworks: Node.js
-- Tools: Visual Studio, Unity, AWS
+- Tools: React, Visual Studio, Unity, AWS
 
 ## 📫 Connect with Me
 
