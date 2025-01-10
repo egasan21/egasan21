@@ -1,6 +1,6 @@
 # Hello, I'm Adrian Egasan! 👋
 
-Welcome to my GitHub profile!
+Thank you for visiting my GitHub profile.
 
 ## 🚀 About Me
 
