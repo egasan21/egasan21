@@ -4,16 +4,19 @@ Thank you for visiting my GitHub profile.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning about data mining and also working on my Capstone Project to complete my Masters.
-- 👯 I’m looking to expand into developing and data analyzing.
+- 💻 I'm passionate about building applications and uncovering insights through data.
+- 👯 I'm seeking opportunities to grow as a developer and data analyst, and I'm open to collaboration on tech-focused projects.
 - 📫 How to reach me: egasan21@gmail.com
-- ⚡ Fun fact: I play basketball weekly and I have a daughter.
+- 🏀 Fun fact: I play basketball every week and am a proud parent to a wonderful daughter.
+
+
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: Javascript, Python, C#, SQL
-- Frameworks: Node.js
-- Tools: React, Visual Studio, Unity, AWS
+- Programming Languages: Python, SQL, JavaScript, TypeScript, C# 
+- Data: Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
+- Databases: PostgreSQL, MySQL, DynamoDB 
+- Tools & Platforms: Jupyter, GitHub, AWS, React, Node.js, AWS, Agile 
 
 ## 📫 Connect with Me
 
